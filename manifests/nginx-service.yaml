@@ -5,7 +5,7 @@ metadata:
     app: nginx
   name: nginx
   #namespace: default
-   namespaces: telelrik-dev
+  namespaces: telelrik-dev
 spec:
   ports:
   - port: 80
